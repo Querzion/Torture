@@ -32,6 +32,7 @@ There are always problems when it comes to projects, but here's a list of mine:
       already expensive enough as it is in pre-production, and in production....
 
     I was thinking ... After the Visualisation; that I kind of created earlier today. TADA! » 
+#   TORTURE - Physical Keyboard Layout
 ![Torture-Physical Layout](https://user-images.githubusercontent.com/39269026/227347592-50e35456-b0bd-4cdb-8d19-b1f99e75eff2.png)
     
     First » Create a physical version. A keyboard case that is 3D printed or something...
@@ -67,9 +68,12 @@ These here are Svorak-A1 & Svorak-A5. There is a third called Svorak-A6, but it'
 I currently use A1, but because I don't have the numbers in a good position for the TORTURE layout, it's probably
 a better idea to kind of using A5 for the keycaps etc. 
 
-# SVORAK - A1: aka Swedish Dvorak A1      
+#   SVORAK - A1: aka Swedish Dvorak A1      
 ![svorak-a1](https://user-images.githubusercontent.com/39269026/227342566-d5758a7a-576b-40c9-aff4-7706f7940782.svg)
-# SVORAK - A5: aka Swedish Dvorak A5
+#   SVORAK - A5: aka Swedish Dvorak A5
 ![svorak-a5](https://user-images.githubusercontent.com/39269026/227342557-71478771-b421-4223-975a-a961c52d0252.svg)
-
-
+#   DVORAK - American Dvorak version
+![KB_United_States_Dvorak](https://user-images.githubusercontent.com/39269026/227361254-6e328a2e-0f17-4d3d-9f6b-b7bdbdd9252b.png)
+#   COLEMAK - American Colemak version 
+(Nothing that I really mentioned, but it's never the less a layout that people use).
+![800px-KB_US-Colemak](https://user-images.githubusercontent.com/39269026/227361356-6988f2af-b30a-447a-80e0-d270329d999a.png)
