@@ -1,4 +1,4 @@
-# TORTURE - NEW KEYBOARD PHYSICAL LAYOUT
+#   TORTURE - PHYSICAL KEYBOARD / LAYOUT
 
 This is a impulsive project. 
     It's for a keyboard, with a inconsiderate layout. I will call it torture, 
