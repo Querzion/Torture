@@ -32,7 +32,7 @@ There are always problems when it comes to projects, but here's a list of mine:
       already expensive enough as it is in pre-production, and in production....
 
     I was thinking ... After the Visualisation; that I kind of created earlier today. TADA! » 
-#   TORTURE - Physical Keyboard Layout
+#   TORTURE - Physical Keyboard / Layout
 ![Torture-Physical Layout](https://user-images.githubusercontent.com/39269026/227347592-50e35456-b0bd-4cdb-8d19-b1f99e75eff2.png)
     
     First » Create a physical version. A keyboard case that is 3D printed or something...
