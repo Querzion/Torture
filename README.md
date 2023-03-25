@@ -33,14 +33,18 @@ There are always problems when it comes to projects, but here's a list of mine:
 
     I was thinking ... After the Visualisation; that I kind of created earlier today. TADA! » 
 #   TORTURE - Physical Keyboard / Layout
-![Torture-Physical Layout](https://user-images.githubusercontent.com/39269026/227347592-50e35456-b0bd-4cdb-8d19-b1f99e75eff2.png)
-    
+![Torture-Physical Layout](https://user-images.githubusercontent.com/39269026/227739091-8d850bd3-ed45-4013-82a4-307f46eb659d.png)
+#   TORTURE - Reworked| SVORAK-A5 ++
+![TORTURE-SVORAK-A5++](https://user-images.githubusercontent.com/39269026/227738933-87b8d8a8-de91-458b-ba25-dd2c75b2593d.svg)
+![Torture-Physical Layout-Updated](https://user-images.githubusercontent.com/39269026/227739021-8a493224-2dac-413c-b997-ae3641cb6829.png)
+  
     First » Create a physical version. A keyboard case that is 3D printed or something...
       Oh yeah... I don't have a 3D printer, nor do I know how to use one or design something in a 3D 
       application. However a physical version, so that it can be 'tested' before a PCB is created.
     
     Second » Create a PCB design that works with the case.... Shouldn't be too difficult when
       there's a bunch of designs already in existence... Probably.
+
     
     Third » Create a driver.... It should be easy. Right?
     
@@ -77,3 +81,5 @@ a better idea to kind of using A5 for the keycaps etc.
 #   COLEMAK - American Colemak version 
 (Nothing that I really mentioned, but it's never the less a layout that people use).
 ![800px-KB_US-Colemak](https://user-images.githubusercontent.com/39269026/227361356-6988f2af-b30a-447a-80e0-d270329d999a.png)
+
+
