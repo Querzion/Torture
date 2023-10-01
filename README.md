@@ -83,3 +83,6 @@ a better idea to kind of using A5 for the keycaps etc.
 ![800px-KB_US-Colemak](https://user-images.githubusercontent.com/39269026/227361356-6988f2af-b30a-447a-80e0-d270329d999a.png)
 
 
+EDIT - 2023OCT01
+It's come to my interest that I would like to add a touchpad in the place where the numpad usually is situated, 
+with three buttons underneath and the volume wheel above it, possibly having even more then one knob, for multi-purpose usage.
